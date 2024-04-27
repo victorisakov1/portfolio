@@ -13,7 +13,7 @@
 ## Work Experience
 
 # Data Analyst & AI Initiatives Lead
-3 Amigos · Full-time · 
+**3 Amigos** · Full-time · 
 Jan 2022 - Jun 2023 · 
 Boston, Massachusetts, United States
 
@@ -24,7 +24,7 @@ Led integration of AI tools, leveraging Data Analytics and implementing Machine 
 
 
 # Market Analyst & Marketing Strategist
-Da-Vinci Group · 
+**Da-Vinci Group** · 
 May 2021 - Jan 2022 · 
 Vladivostok, Primorye, Russia
 
@@ -35,7 +35,7 @@ Conducted market analysis on low-medium class apartment buildings, using SQL for
 
 
 # HR & Marketing Data Analyst
-English Camp · 
+**English Camp** · 
 May 2019 - May 2021 · 
 Vladivostok, Primorye, Russia
 
@@ -47,9 +47,9 @@ Implemented data-driven recruitment strategies using Excel. Curated Digital pres
 ## Education
 
 **Master of Science in Business Analytics**
-- Hult International Business School | San Francisco, California
-- Clubs: AI Society; EdTech Club
+- Hult International Business School · San Francisco, California
+- Clubs: AI Society / EdTech Club
 
 **Bachelor of Business Administration**
-- Hult International Business School | Boston, Massachusetts
+- Hult International Business School · Boston, Massachusetts
 - Major in Entrepreneurship/ Minor in Marketing
