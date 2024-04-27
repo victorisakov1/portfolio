@@ -1,5 +1,7 @@
 # DataScience Portfolio
- 
+
+
+
 # Data Analyst & AI Initiatives Lead
 3 Amigos · Full-time · 
 Jan 2022 - Jun 2023 · 
