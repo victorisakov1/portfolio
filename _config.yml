@@ -4,4 +4,4 @@ description: Data Science Portfolio
 show_downloads: false
 linkedin_username: victor-isakov
 email: vitek.isakov@icloud.com
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
