@@ -1,6 +1,6 @@
-# DataScience Portfolio
+# Data Science Portfolio
 
-## Skills | Expertise | Certifications
+### Skills | Expertise | Certifications
 
 - **Technologies**: Python, SQL, R, Tableau, Excel, Adobe CC, Slack, Miro, Kanban, SEO & SEM, Google Analytics, Midjourney, ChatGPT API, DecohereAI.
 
@@ -10,9 +10,9 @@
 
 - **Languages**: English (Fluent), Russian (Native), Ukrainian (Beginner), French (School Study).
 
-## Work Experience
+## **Work Experience**
 
-# Data Analyst & AI Initiatives Lead
+### Data Analyst & AI Initiatives Lead
 **3 Amigos** · Full-time · 
 Jan 2022 - Jun 2023 · 
 Boston, Massachusetts, United States
@@ -23,7 +23,7 @@ Led integration of AI tools, leveraging Data Analytics and implementing Machine 
 - Implemented AI tools such as Midjourney and SynthesiaAI for content creation which tripled(3x) sales.
 
 
-# Market Analyst & Marketing Strategist
+### Market Analyst & Marketing Strategist
 **Da-Vinci Group** · 
 May 2021 - Jan 2022 · 
 Vladivostok, Primorye, Russia
@@ -34,7 +34,7 @@ Conducted market analysis on low-medium class apartment buildings, using SQL for
 - Enhanced digital presence with Google Analytics through (SEO) optimization, increasing activation by 40%.
 
 
-# HR & Marketing Data Analyst
+### HR & Marketing Data Analyst
 **English Camp** · 
 May 2019 - May 2021 · 
 Vladivostok, Primorye, Russia
@@ -44,7 +44,7 @@ Implemented data-driven recruitment strategies using Excel. Curated Digital pres
 - Curated Social Media accounts, and applied analytical insights to content strategy which increased brand recognition by 31% through new customers.
 - Found top venues through Data Analysis with Excel for Educational Events that boosted students’ productivity and engagement by 45%
 
-## Education
+## **Education**
 
 **Master of Science in Business Analytics**
 - Hult International Business School · San Francisco, California
