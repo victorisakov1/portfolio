@@ -1,6 +1,5 @@
 # DataScience Portfolio
-#
-#
+
 
 # Data Analyst & AI Initiatives Lead
 3 Amigos · Full-time · 
