@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-### Skills | Expertise | Certifications
+## **Skills | Expertise | Certifications**
 
 - **Technologies**: Python, SQL, R, Tableau, Excel, Adobe CC, Slack, Miro, Kanban, SEO & SEM, Google Analytics, Midjourney, ChatGPT API, DecohereAI.
 
