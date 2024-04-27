@@ -46,10 +46,10 @@ Implemented data-driven recruitment strategies using Excel. Curated Digital pres
 
 ## **Education**
 
-**Master of Science in Business Analytics**
+### Master of Science in Business Analytics
 - Hult International Business School · San Francisco, California
 - Clubs: AI Society / EdTech Club
 
-**Bachelor of Business Administration**
+### Bachelor of Business Administration
 - Hult International Business School · Boston, Massachusetts
 - Major in Entrepreneurship/ Minor in Marketing
