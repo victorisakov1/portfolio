@@ -15,7 +15,7 @@
 ### Quantitative Data Science Strategist
 **AlgoForce** · 
 June 2024 - Present · 
-Dubai, UAE
+Dubai, UAE (Remote)
 
 Developed and optimized trading algorithms, leveraging Python and AWS to enhance strategy performance for clients.
 - Identified high-performance parameters for algorithmic trading strategies, reaching over 107% ROI over 24 months.
