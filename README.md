@@ -12,6 +12,17 @@
 
 ## **Work Experience**
 
+### Quantitative Data Science Strategist
+**AlgoForce** · 
+June 2024 - Present · 
+Dubai, UAE
+
+Developed and optimized trading algorithms, leveraging Python and AWS to enhance strategy performance for clients.
+- Identified high-performance parameters for algorithmic trading strategies, reaching over 107% ROI over 24 months.
+- Built, deployed, and automated 10+ algorithms using Python, SQL, MQL5, and AWS tailored to specific market conditions.
+- Implemented mathematical models to identify market trends with 87% accuracy, which improved RRR to nearly 1:3.
+  
+
 ### Data Analyst & AI Initiatives Lead
 **3 Amigos** · Full-time · 
 Jan 2022 - Jun 2023 · 
@@ -34,16 +45,6 @@ Delivered a data-driven market strategy focusing on low-medium class apartment m
 - Reduced marketing costs by 17% by identifying inefficiencies and reallocating resources.
 - Increased online presence by 40% through clients’ engagement, using Google Analytics insights and SEO optimization.
 
-
-### Quantitative Data Science Strategist
-**AlgoForce** · 
-June 2024 - Present · 
-Dubai, UAE
-
-Developed and optimized trading algorithms, leveraging Python and AWS to enhance strategy performance for clients.
-- Identified high-performance parameters for algorithmic trading strategies, reaching over 107% ROI over 24 months.
-- Built, deployed, and automated 10+ algorithms using Python, SQL, MQL5, and AWS tailored to specific market conditions.
-- Implemented mathematical models to identify market trends with 87% accuracy, which improved RRR to nearly 1:3.
 
 ## **Education**
 
