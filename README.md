@@ -25,7 +25,7 @@ Developed and optimized trading algorithms, leveraging Python and AWS to enhance
 
 ### Data Analyst & AI Initiatives Lead
 **3 Amigos** · Full-time · 
-Jan 2022 - Jun 2023 · 
+Jan 2022 - Aug 2023 · 
 Boston, Massachusetts, United States
 
 Led integration of AI tools, leveraging Data Analytics and implementing Machine Learning algorithms, using Python and R, to analyze EdTech startups, identify underlying trends and develop marketing strategies.
