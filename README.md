@@ -13,7 +13,7 @@
 ## **Work Experience**
 
 ### Quantitative Data Science Strategist
-**AlgoForce** · 
+**AlgoForce** · Full-time · 
 June 2024 - Present · 
 Dubai, UAE (Remote)
 
@@ -36,7 +36,7 @@ models and driving innovation in the EdTech sector.
 
 
 ### Market Analyst & Marketing Strategist
-**Da-Vinci Group** · 
+**Da-Vinci Group** · Full-time ·
 May 2021 - Jan 2022 · 
 Vladivostok, Primorye, Russia
 
